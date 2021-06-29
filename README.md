@@ -1,4 +1,4 @@
-# telegrambot_with_ai Turkish
+# Asuman, Yapay Zeka Destekli Türkçe Telegram Botu
 # Gerekli Modüller:
 - telebot
 - random
